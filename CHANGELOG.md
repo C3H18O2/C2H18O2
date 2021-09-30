@@ -1,7 +1,9 @@
 # Change Log
+
 All notable changes to this project will be documented in this file.
 
 ## [3.0.3] - 2019-07-25
+
 ### Added
 - [Pull #321](https://github.com/alxshelepenok/gatsby-starter-lumen/pull/321): Add title to <Icon /> for accessibility
 - [Pull #319](https://github.com/alxshelepenok/gatsby-starter-lumen/pull/319): Fixed invalid Telegram contact url
