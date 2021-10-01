@@ -35,7 +35,7 @@ module.exports = {
       instagram: '',
       line: '',
       gitlab: '',
-      weibo: 'https://www.weibo.com/u/6603699388',
+      weibo: '6603699388',
       codepen: '',
       youtube: '',
       soundcloud: '',
