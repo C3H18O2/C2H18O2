@@ -3,11 +3,11 @@
 module.exports = {
   url: 'https://github.com/C3H18O2/C2H18O2',
   pathPrefix: '/C2H18O2',
-  title: 'Blog by Kitano',
-  subtitle: 'Hello!',
+  title: 'C2H18O2',
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 5,
   googleAnalyticsId: '',
   useKatex: false,
   menu: [
@@ -18,29 +18,24 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
-  ],
+    } ],
   author: {
-    name: 'Kitano',
+    name: 'C2H18O2',
     photo: '/photo.jpg',
-    bio: 'Hello.',
+    bio: '一颗布洛芬自说自话的自圈地',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '',
+      instagram: '',
       line: '',
       gitlab: '',
-      weibo: '',
+      weibo: '#',
       codepen: '',
       youtube: '',
       soundcloud: '',
@@ -48,3 +43,4 @@ module.exports = {
     }
   }
 };
+
