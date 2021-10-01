@@ -3,11 +3,37 @@ title: "About me"
 template: "page"
 socialImage: "/media/image-2.jpg"
 ---
+![](/media/image-2.jpg)
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+**你是谁？**
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+自认为是个好人，HE的爱好者。
+心里总有点创作欲和小片段但是对画画和写文都很不擅长。
+明明想学习却又一直浪费时间和生命。
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+***
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+**あんスタ!!相关**
+
+是个椎名ニキ激推。
+对燐音/MAO/友也/JUN也抱有极高好感，勉强算个CB团推？
+CP倾向为椎名ニキ中心杂食，主推是ニキ燐，左右性别（？）均不固定，主要看解读是否一致。
+因为某些原因对国内简中同人有点过敏，所以不混圈自闭自解读。
+日常会大量自言自语一些莫名其妙可能和CP也没什么关系的东西。
+
+***
+
+**FF14相关**
+
+目前是只有新主线更新才会上去看看的日服咸鱼。
+有新主线的时候会爆发大量剧透或者小作文。
+阿光/我流光中心杂食，对每个NPC都挺感兴趣的（？
+
+***
+
+**还想说些什么？**
+
+虽然文写得不好，但也写了一些，有肉的安全起见不存这边。
+有个壁打ち微博账号，会发很多废话：@温顺的异丁苯丙酸
+总之放一下AO3地址：
+https://archiveofourown.org/users/C13H18dOc2
