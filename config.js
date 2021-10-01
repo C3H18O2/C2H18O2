@@ -26,9 +26,8 @@ module.exports = {
     contacts: {
       email: '#',
       twitter: '#',
-      rss: '',
-      instagram: '',
       weibo: '<https://www.weibo.com/u/6603699388>',
+      gitlab: '',
     }
   }
 };
