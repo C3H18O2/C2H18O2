@@ -1,8 +1,8 @@
 'use strict';
 
 module.exports = {
-  url: 'https://c2h18o2.pages.dev/',
-  pathPrefix: '/',
+  url: 'https://github.com/C3H18O2/C2H18O2',
+  pathPrefix: '/C2H18O2',
   title: 'Blog by Kitano',
   subtitle: 'Hello!',
   copyright: '© All rights reserved.',
