@@ -24,23 +24,12 @@ module.exports = {
     photo: '/photo.jpg',
     bio: '一颗布洛芬自说自话的自圈地',
     contacts: {
-      email: '',
-      facebook: '',
-      telegram: '',
-      twitter: '',
-      github: '',
+      email: '#',
+      twitter: '#',
       rss: '',
-      vkontakte: '',
-      linkedin: '',
       instagram: '',
-      line: '',
       gitlab: '',
       weibo: '#',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
-      medium: '',
     }
   }
 };
-
