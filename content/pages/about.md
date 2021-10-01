@@ -36,4 +36,4 @@ CP倾向为椎名ニキ中心杂食，主推是ニキ燐，左右性别（？）
 虽然文写得不好，但也写了一些，有肉的安全起见不存这边。
 有个壁打ち微博账号，会发很多废话：@温顺的异丁苯丙酸
 总之放一下AO3地址：
-https://archiveofourown.org/users/C13H18dOc2
+<https://archiveofourown.org/users/C13H18dOc2>

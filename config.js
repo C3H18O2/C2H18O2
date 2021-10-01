@@ -28,8 +28,7 @@ module.exports = {
       twitter: '#',
       rss: '',
       instagram: '',
-      AO3: 'https://archiveofourown.org/users/C13H18dOc2',
-      weibo: 'https://www.weibo.com/u/6603699388',
+      weibo: '<https://www.weibo.com/u/6603699388>',
     }
   }
 };
