@@ -18,7 +18,7 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    } ],
+    }],
   author: {
     name: 'C2H18O2',
     photo: '/photo.jpg',
